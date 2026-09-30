@@ -1,0 +1,7 @@
+{
+  "name": "litera-digital-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
